@@ -89,12 +89,12 @@ Google Colab基本操作<br/>
 
 回到上级目录：<br/>
 
-![image](https://github.com/ojiver/AI/blob/main/16.jpg?raw=true)
 
 运行自己的代码<br/>
 好了，各种准备工作都做好了，我们如何在Colab上直接运行自己写好的代码呢？其实很简单，就跟在自己电脑上一样，使用命令<br/>
 
-![image](https://github.com/ojiver/AI/blob/main/17.jpg?raw=true)
+![image](https://github.com/ojiver/AI/blob/main/16.jpg?raw=true)
+
 
 就可以了！详细步骤如下：<br/>
 
@@ -102,13 +102,14 @@ Google Colab基本操作<br/>
 上传速度很快，不用担心网速问题~<br/>
 2. 将工作目录切换到.py文件所在目录<br/>
 
-![image](https://github.com/ojiver/AI/blob/main/18.jpg?raw=true)
+![image](https://github.com/ojiver/AI/blob/main/17.jpg?raw=true)
+
 
 如果不放心的话切换完之后用!ls命令看一下是不是到了指定目录下。<br/>
 
 3. 运行代码<br/>
 
-![image]()
+![image](https://github.com/ojiver/AI/blob/main/18.jpg?raw=true)
 
 4. 注意事项<br/>
 Linux系统下文件路径使用'/'而不是'\'<br/>
