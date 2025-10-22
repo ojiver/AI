@@ -82,12 +82,12 @@ Google Colab基本操作<br/>
  更改工作目录<br/>
 在Colab中cd命令是无效的，切换工作目录使用chdir函数。<br/>
 
-
+![image](https://github.com/ojiver/AI/blob/main/14.jpg?raw=true)
 
 执行以上代码，当前工作目录会进入到drive文件夹下。我们再使用!ls命令会发现系统输出的是drive文件夹下的目录。<br/>
 
 回到上级目录：<br/>
-![image](https://github.com/ojiver/AI/blob/main/14.jpg?raw=true)
+
 
 ![image](https://github.com/ojiver/AI/blob/main/15.jpg?raw=true)
 
