@@ -70,11 +70,11 @@ Google Colab基本操作<br/>
  将应用认证码复制输入到下面的文本框中，点击回车键即可<br/>
 ![image](https://github.com/ojiver/AI/blob/main/12.jpg?raw=true)
 
-![image](https://github.com/ojiver/AI/blob/main/13.jpg?raw=true)
+![image](https://github.com/ojiver/AI/blob/main/13.jpg?raw=true)<br/>
 
 加载成功<br/>
 
- 挂载完后在虚拟机中会多出一个文件夹"drive"，我们可以用
+ 挂载完后在虚拟机中会多出一个文件夹"drive"，我们可以用<br/>
  
 ![image](https://github.com/ojiver/AI/blob/main/14.jpg?raw=true)
 
