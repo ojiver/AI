@@ -10,3 +10,4 @@ Google Colab基本操作
 网站：Google Colab
 
 进入Google Colab网站-》新建项目
+![image](https://github.com/ojiver/AI/blob/main/1.jpg?raw=true)
