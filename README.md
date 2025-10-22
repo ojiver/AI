@@ -1,5 +1,5 @@
-Google Colab——零成本玩转深度学习
-前言
+Google Colab——零成本玩转深度学习<br/>
+前言<br/>
 最近在学深度学习HyperLPR项目时，由于一直没有比较合适的设备训练深度学习的模型，所以在网上想找到提供模型训练，经过一段时间的搜索，最终发现了一个谷歌的产品--Google Colaboratory。它几乎可以实现零成本玩转深度学习，达到快速训练模型的目的。
 
 Google Colaboratory是谷歌开放的一款深度学习的研究工具，主要用于深度学习的开发和研究。这款工具现在是可以免费使用，但是暂时还是无法确定是不是永久免费。Google Colab最大的好处是给广大的AI开发者提供了免费的GPU和TPU使用！GPU型号是Tesla K80！你可以在上面轻松地跑例如：Keras、Tensorflow、Pytorch等框架。
@@ -44,12 +44,10 @@ Google Colab基本操作
 
  修改完后点击保存即可。
 
- ![image](https://github.com/ojiver/AI/blob/main/8.jpg?raw=true)
-
 2. 安装必要的包和软件
 在代码段中输入以下代码：
 
-![image](https://github.com/ojiver/AI/blob/main/9.jpg?raw=true)
+ ![image](https://github.com/ojiver/AI/blob/main/8.jpg?raw=true)
 
 运行代码，运行中会提示输入验证码，点击程序给出的网址进行验证即可。
 
@@ -57,19 +55,20 @@ Google Colab基本操作
 其实完成前面的操作我们就可以在Google Colab中敲写代码或者输入一些系统命令了，但是我们现在连接的虚拟机是和Google Drive脱离的，也就是说我们跑的程序无法使用谷歌云盘里的文件，这就非常受限制了。所以我们一般需要将谷歌云盘看作是虚拟机中的一个硬盘挂载，这样我们就可以使用虚拟机轻松访问谷歌云盘。
 挂载Google Drive代码：
 
-![image](https://github.com/ojiver/AI/blob/main/10.jpg?raw=true)
+![image](https://github.com/ojiver/AI/blob/main/9.jpg?raw=true)
 
 运行挂载Google Drive代码会出现应认证的链接
 
-![image](https://github.com/ojiver/AI/blob/main/11.jpg?raw=true)
+![image](https://github.com/ojiver/AI/blob/main/10.jpg?raw=true)
 
 装载Google Drive
  点击链接获得应用认证码
-
-![image](https://github.com/ojiver/AI/blob/main/12.jpg?raw=true)
+ 
+![image](https://github.com/ojiver/AI/blob/main/11.jpg?raw=true)
 
  应用认证码
  将应用认证码复制输入到下面的文本框中，点击回车键即可
+![image](https://github.com/ojiver/AI/blob/main/12.jpg?raw=true)
 
 ![image](https://github.com/ojiver/AI/blob/main/13.jpg?raw=true)
 
