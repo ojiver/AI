@@ -15,3 +15,22 @@ Google Colab基本操作
 ![image](https://github.com/ojiver/AI/blob/main/2.jpg?raw=true)
 现在，我们就可以在代码框中输入一些代码。这里注意，如果我们直接输入代码，系统会当作是Python代码执行。例如我们输入：
 ![image](https://github.com/ojiver/AI/blob/main/3.jpg?raw=true)
+运行之后输出框中会打印出"1"。
+![image](https://github.com/ojiver/AI/blob/main/4.jpg?raw=true)
+运行结果
+如果想去执行系统命令，只需要在命令前加感叹号!。例如我们输入： 
+![image](https://github.com/ojiver/AI/blob/main/5.jpg?raw=true)
+运行结果如下： 
+![image](https://github.com/ojiver/AI/blob/main/6.jpg?raw=true)
+运行结果
+
+执行之后输出框中会显示当前目录下的所有文件夹。这是不是很像Linux下的命令行操作？
+
+其实在Google Colab中连接的云端的那台虚拟机正是使用的Ubuntu操作系统，我们可以将自己在Google Colab中的一切操作看作是在用命令行控制云端的那台Ubuntu虚拟机。你可以用它来直接跑代码，也可以使用一些系统命令（我们后面要安装第三方软件都需要借助一系列的系统命令）。
+
+ 
+
+前期配置
+1. 修改笔记本环境
+每新建一个Colab项目，都需要先对笔记本环境进行配置，运行类型选择是Python2还是Python3，硬件类型选择CPU、GPU或者TPU。（其中Python2是2.7版本，Python3是3.6版本）
+![image](https://github.com/ojiver/AI/blob/main/7.jpg?raw=true)
