@@ -74,7 +74,7 @@ Google Colab基本操作<br/>
 
 加载成功<br/>
 
- 挂载完后在虚拟机中会多出一个文件夹"drive"，我们可以用<br/>
+ 挂载完后在虚拟机中会多出一个文件夹"drive"，我们可以用
  
 ![image](https://github.com/ojiver/AI/blob/main/14.jpg?raw=true)
 
