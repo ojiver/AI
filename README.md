@@ -72,22 +72,18 @@ Google Colab基本操作
 
 ![image](https://github.com/ojiver/AI/blob/main/13.jpg?raw=true)
 
-加载成功之后在左边的文件中多了一个dirve文件夹
-
-![image](https://github.com/ojiver/AI/blob/main/14.jpg?raw=true)
-
 加载成功
 
  挂载完后在虚拟机中会多出一个文件夹"drive"，我们可以用
-
-![image](https://github.com/ojiver/AI/blob/main/15.jpg?raw=true)
+ 
+![image](https://github.com/ojiver/AI/blob/main/14.jpg?raw=true)
 
  命令查看。
 
  更改工作目录
 在Colab中cd命令是无效的，切换工作目录使用chdir函数。
 
-![image]()
+![image](https://github.com/ojiver/AI/blob/main/15.jpg?raw=true)
 
 执行以上代码，当前工作目录会进入到drive文件夹下。我们再使用!ls命令会发现系统输出的是drive文件夹下的目录。
 
