@@ -12,6 +12,6 @@ Google Colab基本操作
 进入Google Colab网站-》新建项目
 ![image](https://github.com/ojiver/AI/blob/main/1.jpg?raw=true)
 创建完项目之后我们就可以进入Colab的主界面了。
-![image]((https://github.com/ojiver/AI/blob/main/2.jpg?raw=true))
+![image](https://github.com/ojiver/AI/blob/main/2.jpg?raw=true)
 现在，我们就可以在代码框中输入一些代码。这里注意，如果我们直接输入代码，系统会当作是Python代码执行。例如我们输入：
 ![image](https://github.com/ojiver/AI/blob/main/3.jpg?raw=true)
